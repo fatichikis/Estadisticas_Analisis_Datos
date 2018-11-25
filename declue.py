@@ -1,3 +1,5 @@
+#Autor del codigo: Fatima Ruiz
+#
 #para hacer todos juntos
 import numpy as np
 import math
